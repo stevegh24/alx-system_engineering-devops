@@ -1,0 +1,3 @@
+able File  2 lines (2 sloc)  35 Bytes
+#!/bin/bash
+printf '%x\n' $DECIMAL
